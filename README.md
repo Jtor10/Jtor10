@@ -25,5 +25,6 @@ Here you’ll find my projects, experiments, and contributions that reflect my g
 
 ## 🔹 Connect with Me  
 📫 **Email:** jtorrescr@unal.edu.co 
-💼 **LinkedIn:** [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/jepherson-torres-35a672218/)](#)  
+💼 **LinkedIn:** [[linkedin.com/in/jepherson-torres-35a672218](https://www.linkedin.com/in/jepherson-torres-35a672218/)](#)  
+
 
